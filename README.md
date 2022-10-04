@@ -34,12 +34,12 @@
 
 <p align="left" style="background:blueviolet">
 <a href="https://www.linkedin.com/in/roberto-pereira-b11676181/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Jefferson Gomes-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-Roberto Pereira-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/robertopsfilho/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-jefftheson_-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-robertopsfilho-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://open.spotify.com/user/rsfilho1?si=1f36d5ad88f6465b" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Jefferson-05122A?style=flat&logo=spotify" alt="spotify"/>
+ <img align="center" src="https://img.shields.io/badge/-Roberto Filho-05122A?style=flat&logo=spotify" alt="spotify"/>
 </a>
 </p>
