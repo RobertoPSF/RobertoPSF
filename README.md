@@ -24,7 +24,9 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoPSF&langs_count=8" alt="RobertoPSF's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoPSF&langs_count=8" alt="RobertoPSF's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=RobertoPSF&show_icons=true" alt="RobertoPSF's GitHub Stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=RobertoPSF&show_icons=true&theme=radical" alt="RobertoPSF's GitHub Stats"/>
 </p>
 
 <br><br>
