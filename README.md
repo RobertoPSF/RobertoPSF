@@ -6,8 +6,6 @@
 
 - 💬 Ask me about **Java, Python**
 
-- 👨‍💻 More at my...
-
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
