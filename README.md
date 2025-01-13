@@ -1,8 +1,8 @@
 - 🔥 Graduating in Computer Science - UFCG
 
-- 🔭 I'm currently an intern at ...
+- 🔭 I'm currently an intern at Bra.in
 
-- 🌱 I’m currently learning...
+- 🌱 I’m currently learning Python, Java, Docker, SQL
 
 - 💬 Ask me about **Java, Python**
 
