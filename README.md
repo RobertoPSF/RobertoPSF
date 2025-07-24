@@ -2,9 +2,8 @@
 
 - 🔭 I'm currently an intern at Bra.in
 
-- 🌱 I’m currently learning Python, Java, Docker, SQL
+- 🌱 I’m currently learning Python, Java, Docker, SQL, Go, Kuberntes, Git
 
-- 💬 Ask me about **Java, Python**
 
 <br><br>
 
