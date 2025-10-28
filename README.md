@@ -9,7 +9,7 @@ Currently working as a **Developer Intern at Bra.in (UFCG)**, providing services
 
 ## 🎓 About Me  
 
-- 🔥 **Computer Science student at Federal University of Campina Grande (UFCG)**  
+- 🔥 **Graduated in Computer Science from the Federal University of Campina Grande (UFCG)**  
 - 💻 Experience with **Python, Go, Java, C#, TypeScript, and Shell Script**  
 - ☁️ Daily work with **Docker, Kubernetes, Terraform, AWS, and CI/CD pipelines**  
 - 📊 Background in **data analysis, backend systems, and cloud automation**  
