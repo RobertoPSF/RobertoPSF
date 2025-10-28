@@ -65,8 +65,8 @@ Currently working as a **Developer Intern at Bra.in (UFCG)**, providing services
   <a href="https://www.linkedin.com/in/roberto-pereira-b11676181/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Roberto%20Pereira-05122A?style=plastic&logo=linkedin"/>
   </a>
-  <a href="https://www.instagram.com/robertopsfilho/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@robertopsfilho-05122A?style=plastic&logo=instagram"/>
+  <a href="https://www.instagram.com/robertopdsfilho/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@robertopdsfilho-05122A?style=plastic&logo=instagram"/>
   </a>
   <a href="https://open.spotify.com/user/rsfilho1?si=1f36d5ad88f6465b" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-Roberto%20Filho-05122A?style=plastic&logo=spotify"/>
