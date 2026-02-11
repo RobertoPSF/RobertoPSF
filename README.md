@@ -3,7 +3,7 @@
 🚀 **Software Developer | DevOps | Cloud & Backend Engineering**  
 
 I’m passionate about building scalable systems, automating infrastructure, and learning new technologies.  
-Currently working as a **Developer Intern at Bra.in (UFCG)**, providing services for **Wildlife Studios**, where I work across **backend and DevOps** tasks — deploying cloud services, creating automation pipelines, and building tools that make development faster and more reliable.  
+Last worked as a **Developer Intern at Bra.in (UFCG)**, providing services for **Wildlife Studios**, where I work across **backend and DevOps** tasks — deploying cloud services, creating automation pipelines, and building tools that make development faster and more reliable.  
 
 ---
 
